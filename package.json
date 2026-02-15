@@ -1,0 +1,12 @@
+{
+  "name": "pixlflow",
+  "version": "1.0.1",
+  "description": "PixlFlow - All in One Image Conversion & Optimizer Tool",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
